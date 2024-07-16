@@ -213,7 +213,7 @@ This includes internal, external, and business-to-business audiences.
 
 Whoever they are, that's who they are.
 
-The next action is to create details and a narrative to use stories to connect more deeply with that audience.
+	. The next action is to create details and a narrative to use stories to connect more deeply with that audience.
 
 Stories have the power to create real, genuine connections between the storyteller and the audience in a way that statistics, straight facts, or product features struggle to create.
 
@@ -226,7 +226,7 @@ Draw your audience in with a story –don't push it away with a simple, dry reci
 Engage them in your story, putting a face and narrative to those facts and stats and you build a connection deeper and more meaningful than a list of product features or attributes could 
 ever hope to achieve.
 
-The final action is to use the audience's own words.
+	. The final action is to use the audience's own words.
 
 How the story is told can be as important as the story itself.
 
@@ -241,10 +241,71 @@ ratio, but it's fine to drop in a DHCP.
 
 Ultimately, for your business story to resonate and have a genuine impact, you need to first know and understand your audience.
 
-Then you can dovetail your message, your story, with their needs.
+Then you can dove tail your message, your story, with their needs.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Plotting Your Story
+---------------------
+Every story needs a plot. You can't just jump in without a clear goal, interesting ideas, believable characters, and a moral.
+
+And that's why it's so important to plan your story.
+
+And the initial planning stages are especially important.
+
+Fortunately, there are some key strategies for the initial stages of planning a story.
+
+	. The first key strategy is to set goals for the story. 
+		. What's the point of your storytelling effort?
+		. What are you trying to achieve?
+	
+		You need to understand what gap your story will fill, what connection it will make. 
+
+		. Why are you telling the story in the first place? 
+		. Are you trying to sell something?
+		. Are you trying to sway someone's opinion?
+		. What's the point?
+
+	. Once you've figured this out, you need to decide how you can best tell your story.
+		. Should you go for humor or pathos?			
+		. Do you want your audience to laugh or cry?
+		. And what's your format?
+		. Are you talking in front of a whiteboard or shooting a video?
+
+These matter in making your point.
+
+	. Next, brainstorm ideas.
+		. Perhaps you already have some rough or vague ideas, but outside input helps.
+		. Brainstorming can bring out aspects of a story that you have overlooked or missed.
+		. It's better to have lots of ideas than just a few –you can whittle things down later.
+		. Be sure, though, not to lose focus – so keep the goal and the audience in mind.
+
+Once you've decided on your idea, iron out the details. Have a clear story pitch. Outline the hero, the plot, and moral of the story. It's your story – sell it.
+
+	. The next strategy is to create characters. Every story needs a hero – a main character. The hero – or main character – delivers the message of the story.
+		. Your story can have as many characters as necessary, but don't go overboard.
+		. Get rid of any unnecessary characters, and make sure they're distinct and that the audience understands what makes them tick.
+		. And most of all, keep them believable.
+
+Never forget that your hero represents your message, your company,your brand, your product. The hero doesn't have to wear a logo or anything too obvious, but do ensure that the hero 
+represents or embodies the qualities of the brand or product.
+
+	. The final strategy is to identify the moral.
+		. It's just that: what's the moral of the story?
+		. What do you want the audience to take from the story?
+
+That's the value judgment about your brand or product you want the audience to make.
+
+There's a balancing act here: on the one hand, you want the moral to be clear enough that everyone gets it, but subtle enough that the audience doesn't feel judged or talked down to.
+
+They should be able to discern the moral on their own.
+
+One last thing to note: when you're figuring out the moral of the story, keep the audience in mind. Make sure it's compatible with their feelings of right and wrong, for instance. In every
+aspect of business, planning is crucial. And effective business storytelling is no exception. Before you take your story anywhere, you need to know where you want it to go.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
