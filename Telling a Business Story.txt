@@ -155,6 +155,99 @@ tension, and ease of understanding.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Know Your Audience
+--------------------
+Every story needs an audience –there's no point to a great story if no one ever hears it. To maximize the impact of your story, you need to identify the right audience and then create a 
+connection with them.
+
+While this is easier said than done, there are four specific actions you can take to create a connection with your audience. In a business context, your audience will generally be defined 
+for you, based on the business need that's being met by your story.
+
+They might be stakeholders whose approval you need to jump-start a project. 
+
+They might be clients you need to persuade to take action on an initiative. 
+
+They might be coworkers you need to convince of the need for a new business process.
+
+	. Whatever the case, the first action is to profile the target audience.
+
+You need to know and really understand your target audience. Marketers might ask, 
+
+what's the company's ideal customer?
+
+What do they like and dislike?
+
+What are their habits?
+
+Opinions?
+
+Priorities?
+
+When and how do they get their information?
+
+Conversely, the audience might be a new cross-functional project team filled with specialists from many functional areas.
+
+Or maybe a group of experts in one particular field.
+
+In all cases, you need to know who they are and what they want and need to know.
+
+Let these details guide and direct your storytelling because these people are your target audience.
+
+Once you've done this, you can then begin to match your message to the target audience.
+
+Don't try to create a generic story that will appeal to everyone.
+
+It's impossible.
+
+In fact, do the opposite.
+
+Tailor the story to appeal directly to your target audience.
+
+Match the story to their preferences, habits, needs, and prior knowledge.
+
+A group of web developers don't need to be told how a multi-page responsive website works, but the sales team might.
+
+Your audience is all that matters.
+
+This includes internal, external, and business-to-business audiences.
+
+Whoever they are, that's who they are.
+
+The next action is to create details and a narrative to use stories to connect more deeply with that audience.
+
+Stories have the power to create real, genuine connections between the storyteller and the audience in a way that statistics, straight facts, or product features struggle to create.
+
+Stories are simply more engaging.
+
+And that's what your audience wants: to be engaged.
+
+Draw your audience in with a story –don't push it away with a simple, dry recitation of facts and statistics.
+
+Engage them in your story, putting a face and narrative to those facts and stats and you build a connection deeper and more meaningful than a list of product features or attributes could 
+ever hope to achieve.
+
+The final action is to use the audience's own words.
+
+How the story is told can be as important as the story itself.
+
+That means telling the story in a way your audience understands and can relate to – or telling it in their own words, using their own language, terminology, and vocabulary.
+
+Using their words will draw them in and connect them to you.
+
+This often means, of course, having different versions of the same story for different audiences.
+
+If you're telling the story to a group of accountants, it's okay to use their financial jargon –but if you're telling the story to a tech audience, leave out the debt-service coverage 
+ratio, but it's fine to drop in a DHCP.
+
+Ultimately, for your business story to resonate and have a genuine impact, you need to first know and understand your audience.
+
+Then you can dovetail your message, your story, with their needs.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
